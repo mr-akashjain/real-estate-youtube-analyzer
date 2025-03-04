@@ -1,0 +1,12 @@
+pandas
+vosk
+pydub
+torch
+soundfile
+speechbrain
+huggingface_hub
+selenium
+pyautogui
+webdriver-manager
+openai
+yt-dlp
